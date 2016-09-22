@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#f0600000"/>
+</shape><!-- From: file:/Users/charmyshah/AndroidStudioProjects/ParseExample/app/src/main/res/drawable/background.xml -->

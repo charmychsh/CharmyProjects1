@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ParseExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">New Method</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="method_name_hint">MethodName</string>
+    <string name="method_content_hint">Content</string>
+    <string name="save_button">Save</string>
+    <string name="add_comment_button">Save Comment</string>
+    <string name="comment_content_hint">Add Comment</string>
+    <string name="save_comment_button">Add Comment</string>
+
+
+</resources>

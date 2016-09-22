@@ -1,0 +1,7 @@
+/Users/charmyshah/AndroidStudioProjects/ParseExample/app/build/intermediates/classes/debug
+/Users/charmyshah/AndroidStudioProjects/ParseExample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-12b14a47478760bf78898943b210e30645062f90.jar
+/Users/charmyshah/AndroidStudioProjects/ParseExample/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-a0073f766cf50537b7805c4f61669b05389ebf5d.jar
+/Users/charmyshah/AndroidStudioProjects/ParseExample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-41a0f2f438cb9f5e542ae44ebbb7508159ec31ec.jar
+/Users/charmyshah/AndroidStudioProjects/ParseExample/app/build/intermediates/pre-dexed/debug/classes-900a309d953b7995c0517f1cbee9dd4acefce5de.jar
+/Users/charmyshah/AndroidStudioProjects/ParseExample/app/build/intermediates/pre-dexed/debug/Parse-1.9.1-0341dca6959a2aa0fdd3149537a2a426e369ef6f.jar
+/Users/charmyshah/AndroidStudioProjects/ParseExample/app/build/intermediates/pre-dexed/debug/classes-853241aaebce9f2d759f5ca1e3ca4b46b66bb9ad.jar
